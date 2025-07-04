@@ -15,13 +15,3 @@ public class oddeven
 
 
 
-/*using System;
-
-class OddEven
-{
-    static void Main()
-    {
-        int number = 7;
-        Console.WriteLine((number % 2 == 0) ? "Even" : "Odd");
-    }
-}
