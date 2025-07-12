@@ -1,9 +1,7 @@
 ﻿using System;
-
-namespace ConsoleApplication1
+namespace LAB_1
 {
-	class Program1
-	{
+	public class Program1
 		static void Main(string[] args)
 		{
 			Console.Write("Enter number: ");

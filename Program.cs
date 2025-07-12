@@ -1,7 +1,7 @@
 ﻿using System;
 namespace LAB_1
 {
-     internal class Program 
+    public class Program 
     {
         static void Main(string[] args)
         {
@@ -11,4 +11,3 @@ namespace LAB_1
     }
 
 }
-c

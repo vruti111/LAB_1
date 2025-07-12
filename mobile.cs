@@ -3,7 +3,7 @@ namespace LAB_1
 {
 	public class mobile 
 	{
-		static void Main(string[] args)	
+			public static void Main(string[] args)	
 		{
 			Console.WriteLine("enter your mobile number:");
 			string mobile = Console.ReadLine();
